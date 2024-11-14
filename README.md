@@ -1,6 +1,6 @@
 # Rezepte
 
-Meine persönliche Rezepte-Sammlung.
+Die Rezeptesammlung von @balzamas
 
 ## Georgien :georgia:
 [Chartscho](Georgien/chartscho.md) :cut_of_meat:
